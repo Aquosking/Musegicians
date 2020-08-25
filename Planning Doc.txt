@@ -1,0 +1,64 @@
+Potential general names for our heroes
+ - Musgicians
+ + Musegicians
+ + Mus-gicians
+
+Areas
+ + Areas have 3 levels each
+ + Somewhat like a world in a Mario game
+ + At the end of each area is a boss fight
+ + Each area will have a designated environment
+ ? In-between areas maybe have a shop for equipment
+
+Farmland
+ + Corn stalks that slow your movement
+   + The stalks are in pretty uniform rows and patterns
+
+Forest
+ + Trees
+   + Fire Emblem style (forested areas impede movement but are not walls)
+   + The trees are somewhat sporadic, less organized
+
+Rivers
+ + Shallow water that slows you
+ + Pushes you downstream
+ + Deep water that blocks movement, but you can attack over it
+ + Cloud + Forest
+
+Mountains
+ + Cliffs
+   + Only go down but not up
+   + It's over Anakin, I have the high ground!
+ + Falling boulders that can block paths
+
+Mountain Peak
+ + Icy said the blind man
+ + Ice patches
+   + Can only take 1 step onto ice
+   + Stepping onto them makes you slide a couple tiles in the direction you moved
+ + Deep snow
+   + Impedes movement
+
+Temple
+ + Walls
+   + Totally block movement
+   + You can't attack across them
+ + Traps
+   "I think traps are good" -Noelle
+   + Levers that open trapdoors, trigger spikes, that sort of thing
+
+Sky/Cloud
+ + Gaps between clouds
+   + Block movement like walls do
+   + But you can attack across them
+ + Fog
+   + You can move through it slowly
+   + Can't attack through it
+   
+Each Musegician will be linked to a key on the keyboard.
+ + When attacking, you press their key to the rhythm
+
+Boss Battles
+ + Attacking a boss will involve attacking with all 3 characters at once, and will use all 3 buttons at once
+ + Essentially like a mini guitar hero
+ + Boss attack rhythms will be longer, maybe a minute long
